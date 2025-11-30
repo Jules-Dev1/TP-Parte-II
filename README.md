@@ -1,4 +1,4 @@
-Campeonato Computacional de Futebol - Parte II
+# Campeonato Computacional de Futebol - Parte II
 
 Sistema de gerenciamento de campeonato de futebol implementado em C, desenvolvido como trabalho prático para a disciplina de Estrutura de Dados. O sistema carrega dados de times e partidas de arquivos CSV, permitindo consultas, manutenção de dados e exibição da tabela de classificação ordenada.
 Novas Funcionalidades (Parte II)
@@ -12,7 +12,6 @@ Novas Funcionalidades (Parte II)
     Tabela Ordenada: Classificação ordenada por PG, V e S
 
 Estrutura do Projeto
-text
 
 campeonato-futebol/
 ├── main.c (Programa principal com menu completo)
@@ -131,4 +130,5 @@ Ambiente
 Desenvolvido por: Jules Santos Campos
 Disciplina: Estrutura de Dados
 Instituição: Instituto Federal do Espírito Santo - Campus Serra
+
 Professor: Thiago M. Paixão
