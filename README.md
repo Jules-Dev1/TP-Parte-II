@@ -45,8 +45,6 @@ campeonato-futebol/
 
 Compilação e Execução
 
-bash
-
 # Compilar
 make
 
@@ -59,12 +57,10 @@ make clean
 Como Usar
 
     Preparar arquivo de partidas:
-    bash
 
 cp partidas_parcial.csv partidas.csv
 
 Executar o programa:
-bash
 
 ./campeonato
 
@@ -120,7 +116,6 @@ Decisões de Implementação
     Confirmações: Operações críticas exigem confirmação do usuário
 
 Cenários de Teste
-bash
 
 # Cenário 1: Campeonato vazio
 cp partidas_vazio.csv partidas.csv
@@ -149,4 +144,5 @@ Disciplina: Estrutura de Dados
 Instituição: Instituto Federal do Espírito Santo - Campus Serra
 
 Professor: Thiago M. Paixão
+
 
