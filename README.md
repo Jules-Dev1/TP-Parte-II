@@ -14,19 +14,33 @@ Novas Funcionalidades (Parte II)
 Estrutura do Projeto
 
 campeonato-futebol/
+
 ├── main.c (Programa principal com menu completo)
+
 ├── time.h (TAD Time)
+
 ├── time.c (Implementação do TAD Time)
+
 ├── bd_times.h (TAD BDTimes com lista encadeada)
+
 ├── bd_times.c (Implementação do BDTimes)
+
 ├── partida.h (TAD Partida)
+
 ├── bd_partidas.h (TAD BDPartidas com lista encadeada)
+
 ├── bd_partidas.c (Implementação do BDPartidas)
+
 ├── Makefile (Script de compilação)
+
 ├── times.csv (Dados dos times)
+
 ├── partidas_vazio.csv (Cenário 1: sem partidas)
+
 ├── partidas_parcial.csv (Cenário 2: campeonato em andamento)
+
 ├── partidas_completo.csv (Cenário 3: campeonato completo)
+
 └── README.md (Este arquivo)
 
 Compilação e Execução
@@ -128,7 +142,9 @@ Ambiente
     Linguagem: C
 
 Desenvolvido por: Jules Santos Campos
+
 Disciplina: Estrutura de Dados
+
 Instituição: Instituto Federal do Espírito Santo - Campus Serra
 
 Professor: Thiago M. Paixão
