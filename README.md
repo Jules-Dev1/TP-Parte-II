@@ -44,6 +44,7 @@ campeonato-futebol/
 └── README.md (Este arquivo)
 
 Compilação e Execução
+
 bash
 
 # Compilar
@@ -148,3 +149,4 @@ Disciplina: Estrutura de Dados
 Instituição: Instituto Federal do Espírito Santo - Campus Serra
 
 Professor: Thiago M. Paixão
+
